@@ -8,7 +8,7 @@ Notebooks is a Windows desktop writing app built around a physical bookshelf, co
 
 ## Download for Windows
 
-Download **Notebooks-Setup-0.6.1.exe** from the [latest GitHub Release](https://github.com/Romadethat/Notebooks/releases/latest).
+Download **Notebooks-Setup-0.6.1.exe** from the [Notebooks 0.6.1 GitHub Release](https://github.com/Romadethat/Notebooks/releases/tag/v0.6.1).
 
 - Platform: Windows x64
 - Installer size: 122,687,136 bytes (about 117 MB)
