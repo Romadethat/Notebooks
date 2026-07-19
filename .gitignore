@@ -1,0 +1,26 @@
+# This GitHub repository is a product information and download page.
+# Application source, build tooling, tests, local data, and private books stay local.
+*
+
+!.gitignore
+!.gitattributes
+!README.md
+!SECURITY.md
+!THIRD_PARTY_NOTICES.md
+
+!docs/
+docs/*
+!docs/USER_AND_AGENT_GUIDE.md
+!docs/PUBLIC_RELEASE_AUDIT.md
+!docs/images/
+docs/images/*
+!docs/images/notebooks-bookshelf.png
+!docs/images/notebooks-writing-guide.png
+!docs/images/notebooks-cover-studio.png
+
+!downloads/
+downloads/*
+!downloads/Notebooks-Field-Guide.inkbook
+
+# The installer is uploaded as a GitHub Release asset, never committed to Git.
+release-assets/
